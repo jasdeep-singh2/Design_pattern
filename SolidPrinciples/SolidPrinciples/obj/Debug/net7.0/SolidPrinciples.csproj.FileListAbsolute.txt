@@ -1,0 +1,15 @@
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\SolidPrinciples\bin\Debug\net7.0\SolidPrinciples.exe
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\SolidPrinciples\bin\Debug\net7.0\SolidPrinciples.deps.json
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\SolidPrinciples\bin\Debug\net7.0\SolidPrinciples.runtimeconfig.json
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\SolidPrinciples\bin\Debug\net7.0\SolidPrinciples.dll
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\SolidPrinciples\bin\Debug\net7.0\SolidPrinciples.pdb
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\SolidPrinciples\obj\Debug\net7.0\SolidPrinciples.csproj.AssemblyReference.cache
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\SolidPrinciples\obj\Debug\net7.0\SolidPrinciples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\SolidPrinciples\obj\Debug\net7.0\SolidPrinciples.AssemblyInfoInputs.cache
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\SolidPrinciples\obj\Debug\net7.0\SolidPrinciples.AssemblyInfo.cs
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\SolidPrinciples\obj\Debug\net7.0\SolidPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\SolidPrinciples\obj\Debug\net7.0\SolidPrinciples.dll
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\SolidPrinciples\obj\Debug\net7.0\refint\SolidPrinciples.dll
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\SolidPrinciples\obj\Debug\net7.0\SolidPrinciples.pdb
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\SolidPrinciples\obj\Debug\net7.0\SolidPrinciples.genruntimeconfig.cache
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\SolidPrinciples\obj\Debug\net7.0\ref\SolidPrinciples.dll
