@@ -1,0 +1,15 @@
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\OpenClosedPrinciple\bin\Debug\net7.0\OpenClosedPrinciple.exe
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\OpenClosedPrinciple\bin\Debug\net7.0\OpenClosedPrinciple.deps.json
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\OpenClosedPrinciple\bin\Debug\net7.0\OpenClosedPrinciple.runtimeconfig.json
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\OpenClosedPrinciple\bin\Debug\net7.0\OpenClosedPrinciple.dll
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\OpenClosedPrinciple\bin\Debug\net7.0\OpenClosedPrinciple.pdb
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\OpenClosedPrinciple\obj\Debug\net7.0\OpenClosedPrinciple.csproj.AssemblyReference.cache
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\OpenClosedPrinciple\obj\Debug\net7.0\OpenClosedPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\OpenClosedPrinciple\obj\Debug\net7.0\OpenClosedPrinciple.AssemblyInfoInputs.cache
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\OpenClosedPrinciple\obj\Debug\net7.0\OpenClosedPrinciple.AssemblyInfo.cs
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\OpenClosedPrinciple\obj\Debug\net7.0\OpenClosedPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\OpenClosedPrinciple\obj\Debug\net7.0\OpenClosedPrinciple.dll
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\OpenClosedPrinciple\obj\Debug\net7.0\refint\OpenClosedPrinciple.dll
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\OpenClosedPrinciple\obj\Debug\net7.0\OpenClosedPrinciple.pdb
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\OpenClosedPrinciple\obj\Debug\net7.0\OpenClosedPrinciple.genruntimeconfig.cache
+C:\Users\jasde\source\Repos\Design_pattern\SolidPrinciples\OpenClosedPrinciple\obj\Debug\net7.0\ref\OpenClosedPrinciple.dll
