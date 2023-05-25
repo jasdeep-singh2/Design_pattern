@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj": {}
+    "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj": {
+    "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
+        "projectUniqueName": "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
         "projectName": "LiskovSubstitutionPrinciple",
-        "projectPath": "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
+        "projectPath": "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
         "packagesPath": "C:\\Users\\jasde\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\LiskovSubstitutionPrinciple\\obj\\",
         "projectStyle": "PackageReference",

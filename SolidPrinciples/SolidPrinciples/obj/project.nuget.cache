@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8VSC+TPSF/+FF+AmGYSS6TXK4U9mwKcNjn2tDaqXmiDWaKBQWifnVMqTlrWb9Bq4I7A3j1ApWcg8hTyUXgMJlg==",
+  "dgSpecHash": "TBgHKh+T9LIe4YqWe9YPpORkHlDa6ow/NQtGuxF+sjt+k+heDBrWlAwrml1wSICPqobCTeCNJ/Nuz3RBtGHiBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\SolidPrinciples\\SingleResponsibilityPrinciple.csproj",
+  "projectFilePath": "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\SolidPrinciples\\SingleResponsibilityPrinciple.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9540O0pQQz/Nt0qqRPd+IwiOSmAPjTUYec1ud+I+ECZlJrMJBGMzBiKFi4z5nWN1YR6iTGpOxCD4Q3a2GDIJMA==",
+  "dgSpecHash": "E4yREG0thHVxT8Wa6ZtizGZ73RYyv04MHi0wuADP27CFzXwhNgvVbwsaTvBwPqL3+4NKRTmT4W+K0lObq4NabQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
+  "projectFilePath": "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\LiskovSubstitutionPrinciple\\LiskovSubstitutionPrinciple.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

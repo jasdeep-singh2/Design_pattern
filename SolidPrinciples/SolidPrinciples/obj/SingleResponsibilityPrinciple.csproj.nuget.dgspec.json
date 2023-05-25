@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\SolidPrinciples\\SingleResponsibilityPrinciple.csproj": {}
+    "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\SolidPrinciples\\SingleResponsibilityPrinciple.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\SolidPrinciples\\SingleResponsibilityPrinciple.csproj": {
+    "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\SolidPrinciples\\SingleResponsibilityPrinciple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\SolidPrinciples\\SingleResponsibilityPrinciple.csproj",
+        "projectUniqueName": "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\SolidPrinciples\\SingleResponsibilityPrinciple.csproj",
         "projectName": "SingleResponsibilityPrinciple",
-        "projectPath": "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\SolidPrinciples\\SingleResponsibilityPrinciple.csproj",
+        "projectPath": "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\SolidPrinciples\\SingleResponsibilityPrinciple.csproj",
         "packagesPath": "C:\\Users\\jasde\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\SolidPrinciples\\obj\\",
         "projectStyle": "PackageReference",

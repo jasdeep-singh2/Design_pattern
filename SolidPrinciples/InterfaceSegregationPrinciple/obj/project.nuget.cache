@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LvbagZledS0pDoDrscBMCXDoTrjpNVswdSU/yJZO/5x4GhNWJ20+PZGZdyjrW3WddHeLLDwC5PKCNhH/Mb77wA==",
+  "dgSpecHash": "mzt6wZRPdqZahGCoCaq9JdCslJf/ny5ezj//wzXhmNB4KhOn+5IpagCuV3dXnYaBh6cdmrkOSqY85ZlQtRjOSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj",
+  "projectFilePath": "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

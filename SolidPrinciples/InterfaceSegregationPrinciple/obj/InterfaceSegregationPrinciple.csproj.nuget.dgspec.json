@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj": {}
+    "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj": {
+    "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj",
+        "projectUniqueName": "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj",
         "projectName": "InterfaceSegregationPrinciple",
-        "projectPath": "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj",
+        "projectPath": "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\InterfaceSegregationPrinciple\\InterfaceSegregationPrinciple.csproj",
         "packagesPath": "C:\\Users\\jasde\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\InterfaceSegregationPrinciple\\obj\\",
+        "outputPath": "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\InterfaceSegregationPrinciple\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

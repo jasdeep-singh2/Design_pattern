@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TFUU3RPyi2vO6bB5TgJf1iRI7si5oYkTVJ4N4yCtWYhpEWV8jMLJ4I031pEe/Bbh6s6W+8zBckvSxVb1KDdVrg==",
+  "dgSpecHash": "Ygmu7XCN+PsN3NLWg4pr/Bkzw+E+xRKEhQaWNYsNv5Kd/H79oHyj1+nX34tcy02JCYVEWKZ5izsz4Pth1z9Nrw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jasde\\source\\Repos\\Design_pattern\\SolidPrinciples\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
+  "projectFilePath": "C:\\Users\\jasde\\Source\\Repos\\Design_pattern\\SolidPrinciples\\OpenClosedPrinciple\\OpenClosedPrinciple.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
